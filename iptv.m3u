@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Animações",video 1 - ForBiggerJoyrides
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
-
-#EXTINF:-1 group-title="Curtas",video 2 - BigBuckBunny
+#EXTINF:-1 group-title="Curtas",Big Buck Bunny
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 group-title="Marvel",video 3 - HOMEM-ARANHA: SEM VOLTA PARA CASA 
+#EXTINF:-1 group-title="Marvel",HOMEM-ARANHA: SEM VOLTA PARA CASA 
 https://cold-na-phx-2.gofile.io/download/web/780b8132-1a07-4a17-870b-11e71ba093a0/videoplayback.mp4

@@ -13,16 +13,16 @@ https://iptv-org.github.io/channels/br/CartoonNetworkLive#SD
 # ===== SÉRIES =====
 
 # Série 1
-#EXTINF:-1 tvg-type="series" tvg-name="Sintel Adventures" group-title="Séries | Sintel Adventures",Sintel Adventures • T1 EP1 • A Jornada
+#EXTINF:-1 tvg-type="series" tvg-name="Sintel Adventures" group-title="Series | Sintel Adventures",Sintel Adventures • T1 EP1 • A Jornada
 https://archive.org/download/Sintel/sintel-2048-surround.mp4
 
-#EXTINF:-1 tvg-type="series" tvg-name="Sintel Adventures" group-title="Séries | Sintel Adventures",Sintel Adventures • T1 EP2 • O Dragão
+#EXTINF:-1 tvg-type="series" tvg-name="Sintel Adventures" group-title="Series | Sintel Adventures",Sintel Adventures • T1 EP2 • O Dragão
 https://archive.org/download/Sintel/sintel-2048-surround.mp4
 
 
 # Série 2
-#EXTINF:-1 tvg-type="series" tvg-name="Big Buck Tales" group-title="Séries | Big Buck Tales",Big Buck Tales • T1 EP1 • A Floresta
+#EXTINF:-1 tvg-type="series" tvg-name="Big Buck Tales" group-title="Series | Big Buck Tales",Big Buck Tales • T1 EP1 • A Floresta
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 tvg-type="series" tvg-name="Big Buck Tales" group-title="Séries | Big Buck Tales",Big Buck Tales • T1 EP2 • A Vingança
+#EXTINF:-1 tvg-type="series" tvg-name="Big Buck Tales" group-title="Series | Big Buck Tales",Big Buck Tales • T1 EP2 • A Vingança
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4

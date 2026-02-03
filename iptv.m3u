@@ -1,25 +1,27 @@
 #EXTM3U
 
+# ===== CURTAS =====
 #EXTINF:-1 group-title="Curtas",Big Buck Bunny
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
+# ===== AO VIVO =====
 #EXTINF:-1 group-title="Ao Vivo",Cartoon Network Ao-Vivo
 https://iptv-org.github.io/channels/br/CartoonNetworkLive#SD
 
 
 # ===== SÉRIES =====
 
-# Série 1
-#EXTINF:-1 group-title="Séries",Sintel Adventures • T1 EP1 • A Jornada
+# Sintel Adventures
+#EXTINF:-1 group-title="Séries" tvg-name="Sintel Adventures",S01E01 • A Jornada
 https://archive.org/download/Sintel/sintel-2048-surround.mp4
 
-#EXTINF:-1 group-title="Séries",Sintel Adventures • T1 EP2 • O Dragão
+#EXTINF:-1 group-title="Séries" tvg-name="Sintel Adventures",S01E02 • O Dragão
 https://archive.org/download/Sintel/sintel-2048-surround.mp4
 
 
-# Série 2
-#EXTINF:-1 group-title="Séries",Big Buck Tales • T1 EP1 • A Floresta
+# Big Buck Tales
+#EXTINF:-1 group-title="Séries" tvg-name="Big Buck Tales",S01E01 • A Floresta
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 group-title="Séries",Big Buck Tales • T1 EP2 • A Vingança
+#EXTINF:-1 group-title="Séries" tvg-name="Big Buck Tales",S01E02 • A Vingança
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
